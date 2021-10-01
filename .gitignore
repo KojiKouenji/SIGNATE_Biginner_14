@@ -1,0 +1,12 @@
+#
+/csv/
+
+#
+/.ipynb_checkpoints/
+
+#
+*.csv
+
+# notebooks
+*.ipynb
+!SIGNATE_Beginner14.ipynb
